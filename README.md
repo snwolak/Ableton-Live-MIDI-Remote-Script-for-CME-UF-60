@@ -1,5 +1,7 @@
 
-#Ableton Live MIDI Remote Script for CME UF60
+# Ableton Live MIDI Remote Script for CME UF60
 
-#Guide
+Created with this tutorial http://julienbayle.net/ableton-live-9-midi-remote-scripts/
+
+# Guide
 Paste it into Resources/MIDI Remote Scripts folder.
